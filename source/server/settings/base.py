@@ -43,7 +43,6 @@ INSTALLED_APPS = [
     'oauth2_provider',
 
     'fe_core',
-    'fe_pessoa',
 ]
 
 MIDDLEWARE_CLASSES = [
